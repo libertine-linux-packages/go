@@ -1,0 +1,8 @@
+[submodule "go_1_7"]
+	path = go_1_7
+	url = https://github.com/golang/go.git
+	branch = release-branch.go1.7
+[submodule "go_1_4"]
+	path = go_1_4
+	url = https://github.com/golang/go.git
+	branch = release-branch.go1.4
