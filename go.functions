@@ -283,7 +283,7 @@ case "$package" in
 			
 			build_go_1_7)
 	
-				build_provides go-1.7
+				build_provides go-1.7 gofmt-1.7
 				
 				libertine_compile_build_go_1_7()
 				{
