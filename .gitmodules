@@ -2,9 +2,7 @@
 	path = go_1_7
 	url = https://github.com/libertine-linux-clones/go_1_7.git
 	branch = release-branch.go1.7
-	libertine-linux-upstream = https://github.com/golang/go.git
 [submodule "go_1_4"]
 	path = go_1_4
 	url = https://github.com/libertine-linux-clones/go_1_4.git
 	branch = release-branch.go1.4
-	libertine-linux-upstream = https://github.com/golang/go.git
